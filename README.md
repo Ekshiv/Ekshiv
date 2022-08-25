@@ -1,9 +1,9 @@
-<h2 align="center">Hello Visitors !!!</h2>
+<h2 align="center">Hello Visitors !!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ekshiv&label=Profile%20views&color=0e75b6&style=square" alt="Ekshiv" /> </p>
 
  <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+SHIVAM+%F0%9F%91%8B;Data+Science+Student;Problem+Solver;Data+Enthusiast;Art+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+Github+Profile!!;Hi!!+I'm+SHIVAM;Data+Science+Student;Data+Enthusiast;Art+Enthusiast;and+a+Problem+Solver" alt="Headline" />
  </div>
 
  ## **ABOUT ME**
@@ -14,3 +14,6 @@
     <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
     <li>😄 <b>Fun fact</b>: I love Codeing(💻), Watching Movies(📽️), Traveling(🌍), and a Foodie(🍽️).</li>
 </ul>
+
+## **GITHUB STATS**
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekshiv&theme=aura&show_icons=true)
