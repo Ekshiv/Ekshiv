@@ -13,7 +13,7 @@
  <ul>
     <li>🎯 I’m currently learning: <b>Deep learning and mlops</b></li>
     <li>💻 <b>Check my Projects and other Repos</b>: <a href="https://github.com/Ekshiv?tab=repositories">[ Click here ]</a></li>
-	<li>🤔 I’m currently open for: <b>A new job opportunity</b>, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">[ Link to my Resume ]</a></li>
+    <li>🤔 I’m currently open for: <b>A new job opportunity</b>, <a href="http//dummyresume.com/Shivam+Singh”[ Link to my Resume ]</a></li>
     <li>📫 How to reach me: Catch and follow me from the above links 👆, in addition to follow me here.</li>
     <li>😄 Fun fact: I love <b>Codeing</b>(💻), <b>Watching Movies</b>(📽️), <b>Traveling</b>(🌍), and <b>a Foodie</b>(🍽️).</li>
 </ul>
