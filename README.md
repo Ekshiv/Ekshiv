@@ -6,7 +6,7 @@
 </p>
 
  <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+Github+Profile!!;Hi!!+I'm+SHIVAM;Data+Science+Student;Data+Enthusiast;Art+Enthusiast;and+a+Problem+Solver" alt="Headline"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+Github+Profile!!;Hi!!+I'm+SHIVAM;Passionate+Data+Analyst" alt="Headline"/>
  </div>
 
  ## **ABOUT ME**
