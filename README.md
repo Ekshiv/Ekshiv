@@ -8,6 +8,7 @@
  <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+Github+Profile!!;Hi!!+I'm+SHIVAM;Passionate+Data+Analyst" alt="Headline"/>
  </div>
+ <img align="right top" alt="Coding" height= "600" width="1100" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
  ## **ABOUT ME**
  <ul>
