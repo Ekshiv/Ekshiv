@@ -13,7 +13,7 @@
  <ul>
     <li>🎯 I’m currently learning: <b>Power BI</b></li>
     <li>💻 <b>Check my Projects and other Repos</b>: <a href="https://github.com/Ekshiv?tab=repositories">[ Click here ]</a></li>
-	<li>🤔 I’m currently open for: <b>A new job opportunity</b>:<a href="[https://drive.google.com/file/d/1u7mO3OMaWj-6z7YTqghGSMaUg8GWWGFb/view?usp=sharing](https://docs.google.com/document/d/1DPTmiHVHcA-JDGkZ-nt-HMpy6Hjqe0n95vMdJ69y0mU/edit?usp=sharing)">[ Link to my Resume ]</a></li>
+	<li>🤔 I’m currently open for: <b>A new job opportunity</b>: <a href="https://docs.google.com/document/d/1DPTmiHVHcA-JDGkZ-nt-HMpy6Hjqe0n95vMdJ69y0mU/edit?usp=sharing)">[ Link to my Resume ]</a></li>
     <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
     <li>😄<b>Fun fact</b>: I love <b>Codeing</b>(💻), <b>Watching Movies</b>(📽️), <b>Traveling</b>(🌍), and <b>a Foodie</b>(🍽️).</li>
 </ul>
