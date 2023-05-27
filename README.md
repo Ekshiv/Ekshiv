@@ -46,6 +46,7 @@
 
 ## **GITHUB STATS**
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekshiv&theme=aura&show_icons=true)
+
 ## **Tech Stack**
 <img align="Left" alt="MySQL" width="100px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
 <img align="Left" alt="Python" width="100px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
