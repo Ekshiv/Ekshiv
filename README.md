@@ -47,5 +47,8 @@
 ## **GITHUB STATS**
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekshiv&theme=aura&show_icons=true)
 ## **Tech Stack**
-<img align="Left" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
-<img align="Left" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+<img align="Left" alt="MySQL" width="100px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
+<img align="Left" alt="Python" width="100px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+<img  align="left" alt="Power BI Logo" width="100px" src="https://images.squarespace-cdn.com/content/v1/57aa0fb1b3db2bbe2dfb5840/1607362034987-W2CCN0CV3112IH7MO9PP/ke17ZwdGBToddI8pDm48kHetbtA8IrNNARGRRAMq6VBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHhoieEUztzpJSjZ_qXSmFcXEpZNATOgXau2Y02sfc7AN1lH3P2bFZvTItROhWrBJ0/Power+BI+Logo.png">
+
+![Excel](https://github.com/Ekshiv/Ekshiv/assets/99724929/225f7171-d7d3-4dcb-ac04-3c0c486ed2d1)
